@@ -1,2 +1,2 @@
-# sample-repo-16.06.23
+# Sample-Repo-16.june.23
 just demo for homework
